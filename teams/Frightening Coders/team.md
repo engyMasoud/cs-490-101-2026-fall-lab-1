@@ -2,15 +2,15 @@
 
 ## Team Name
 
-Merge Conflict Survivors
+Frightening Coders
 
 ## Project Manager
 
-Jane Doe
+Engy Masoud
 
 ## Team Members
 
 - Jane Doe
-- John Smith
+- Afshan Akmal
 - Alice Johnson
 - Bob Williams
